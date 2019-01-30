@@ -1,0 +1,19 @@
+{
+  "name": "rkm-react-test-app",
+  "version": "1.0.0",
+  "description": "\"React app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkmwebdev/rkm-react-test-app.git"
+  },
+  "author": "Ratheesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkmwebdev/rkm-react-test-app/issues"
+  },
+  "homepage": "https://github.com/rkmwebdev/rkm-react-test-app#readme"
+}
